@@ -12,6 +12,7 @@ Here is the output of the project:
 
 ---- Welcome to the Zodiac Sign Calculator ----
 
+
 Here is the 4 elements of Astrology: Zodiac Groups
 1.Fire : Aries, Leo, Sagittarius.
 2.Earth : Taurus, Virgo, Capricorn.
