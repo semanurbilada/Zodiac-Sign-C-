@@ -9,6 +9,7 @@ And, of course you can add rising sign and things like that for the zodiac sign 
 
 
 // There is a problem that i cannot solve. Even if name identified as a string, you can enter an integer in the output section for name variable.
+
 // I couldn't fixed this problem...
 
 
@@ -27,6 +28,7 @@ Here is the 4 elements of Astrology: Zodiac Groups
 
 Enter your name:
 Semanur
+
 Enter your birth day: ( '__' / __ / ____ )
 
 24
