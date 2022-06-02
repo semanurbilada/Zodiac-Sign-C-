@@ -7,6 +7,12 @@ I actually have a previous repo about the same zodiac calculator but, again I wa
 
 And, of course you can add rising sign and things like that for the zodiac sign calculator.
 
+
+// There is a problem that i cannot solve. Even if name identified as a string, you can enter an integer in the output section for name variable.
+// I couldn't fixed this problem...
+
+
+
 Here is the output of the project:
 
 
