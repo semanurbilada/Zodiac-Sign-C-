@@ -41,6 +41,7 @@ Hello, Semanur
 Your birthday is : 24 / 4
 
 Your zodiac sign is Taurus (Boğa)
+
 Your zodiac group is Earth: They keep it real. They are the “grounded” people on the planet.
 
 Your features : Art and love occupy a large space in their lives, they are touchy and sensitive.
