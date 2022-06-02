@@ -24,6 +24,7 @@ Semanur
 Enter your birth day: ( '__' / __ / ____ )
 
 24
+
 Enter your birth month: ( __ / '__' / ____ )
 
 4
