@@ -1,9 +1,11 @@
-//  Zodiac Sign(++)
+//  Zodiac Sign (C++)
 //  Created by Semanur Bilada on 23.05.2022.
 
 // There is a problem that i cannot solve. Even if name identified as a string, you can enter an integer in the output section for name variable.
 // I couldn't fixed this problem...
 
+
+// libraries
 #include <iostream>
 #include <cstring>
 using namespace std;
@@ -127,7 +129,7 @@ void zodiacs( int day, int month, string name )
             cout << "Your features : " << picses << endl;
         }
     }
-    // for the verification of invalid inputs:
+    // for the verification of invalid inputs: (one line coding)
     else { printf("You entered invalid date!\nTry again...\n\n"); }
     
 } //function
@@ -164,6 +166,5 @@ int main( )
     
     // calling functions:
     zodiacs(day, month, name);
-    
     
 } //main
