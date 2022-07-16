@@ -2,7 +2,7 @@
 //  Created by Semanur Bilada on 23.05.2022.
 
 // There is a problem that i cannot solve. Even if name identified as a string, you can enter an integer in the output section for name variable.
-// I couldn't fixed this problem...
+// I couldn't fixed this problem...but, other than that, it's working quite well.
 
 
 // libraries
